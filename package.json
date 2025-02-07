@@ -32,5 +32,8 @@
       "last 1 safari version"
     ]
   },
+  "overrides": {
+    "@testing-library/react": "^19.0.0"
+  },
   "homepage": "https://konard.github.io"
 }

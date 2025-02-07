@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-    # Ignore changes to the docs folder to prevent recursive builds.
     paths-ignore:
       - 'docs/**'
 
